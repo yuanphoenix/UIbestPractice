@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/open_blue"
+        android:title="服务端"
+        />
+    <item
+        android:id="@+id/service"
+        android:title="客户端" />
+</menu>
